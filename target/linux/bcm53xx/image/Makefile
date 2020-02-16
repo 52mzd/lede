@@ -301,7 +301,7 @@ define Device/netgear-r8500
   $(Device/netgear)
   NETGEAR_BOARD_ID := U12H334T00_NETGEAR
 endef
-# TARGET_DEVICES += netgear-r8500
+TARGET_DEVICES += netgear-r8500
 
 define Device/smartrg-sr400ac
   DEVICE_TITLE := SmartRG SR400ac
